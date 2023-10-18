@@ -1,4 +1,4 @@
-MONGO_URI="mongodb+srv://Blessing_Ogelebor:Ogelebor28!@cluster0.yxxc8ru.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI="mongodb+srv://fairemit:Ogelebor28!@cluster0.r6ap8d2.mongodb.net/?retryWrites=true&w=majority"
 JWT_SECRET="x5s1s32a54xhgj23asewqh32rfbfwqo2rrfnjk"
 
 whiteListedExtensions=['.apng', '.avif', '.gif', '.jpg', '.jpeg', '.jfif', '.pjpeg', '.pjp', '.png', '.svg', '.pdf', '.webm', '.mkv', '.flv', '.vob', '.ogg', '.ogv', '.gif', '.mov', '.wmv', '.3gp', '.mp4', '.m4p', '.m4v', '.mp3', '.wav']
